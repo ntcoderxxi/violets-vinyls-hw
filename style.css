@@ -1,0 +1,43 @@
+body {
+  background: black;
+  font-family: "Segoe UI", Verdana, sans-serif;
+  color: white;
+  font-size: 16px;
+}
+
+header {
+  font-size: 50px;
+  background-image: url("img/Records.jpg");
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+  background-color: #ef8354;
+}
+
+img {
+  max-width: 500px;
+}
+
+footer {
+  text-align: center;
+}
+
+.sell {
+  background-color: #0e7c7b;
+}
+
+.live {
+  background-color: #9c538b;
+}
+
+a {
+  color: #ef8354;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9c528b;
+}
